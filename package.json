@@ -1,0 +1,22 @@
+{
+  "name": "mymap-electron",
+  "version": "0.0.0-dev",
+  "description": "A simple map app on Windows and Linux",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanjieyun/mymap-electron.git"
+  },
+  "author": "wangwang177",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuanjieyun/mymap-electron/issues"
+  },
+  "homepage": "https://github.com/tuanjieyun/mymap-electron#readme",
+  "dependencies": {
+    "electron": "^7.1.10"
+  }
+}
