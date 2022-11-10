@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tuanjieyun/mymap-electron#readme",
   "dependencies": {
-    "electron": "^7.1.10"
+    "electron": "^18.3.7"
   }
 }
